@@ -1,38 +1,44 @@
-# Gyt-18h
+# Hi, I'm yuto 👋
 
-## Profile
-- University student (Computer Science / Engineering focus)
-- Interested in software development, security, and system design
-- Currently learning Git, GitHub, Android development, and C++
+## About Me
+- University Student (Information-Oriented Management) & Professional Training College (Cyber Security)
+- Interested in security, infrastructure and software
 
 ---
 
-## Skills (learning / practicing)
-- Git / GitHub
-- Java / C++
-- Android Studio
-- VS Code
-- Basic web development (HTML / CSS / JavaScript)
+## Current Focus
+- Cyber Security
+- Android Development
+- Web Development
+- Competitive Programming (AtCoder)
+- Capture The Flag (CTF)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
+
+## Languages (Currently learning)
+Java, C++, Python, HTML, CSS, JavaScript, PHP, SQL
+
+## Technologies (Currently learning)
+Android Studio, Firebase, Linux, Git/GitHub, VS Code
 
 ---
 
 ## Projects
-- GitHub profile README setup (this repository)
-- Android application development (in progress)
-- CTF / security practice (in progress)
+- WeatherWise (Android)
+- VisualTrip (Android) [In Progress]
+- BodyManager (Android) [In Progress]
+- ProfilePortfolio (Web) [In Progress]
+
+---
+
+## Certifications
+- IT Passport Examination (IP)
+- Information Security Management Examination (SG)
+- Fundamental Information Technology Engineer Examination (FE)
 
 ---
 
 ## Goals
-- Build production-level applications
-- Improve security engineering skills (CTF / pentesting)
-- Contribute to open-source projects
-- Get internship experience in software engineering
-
----
-
-## GitHub
-https://github.com/Gyt-18h
+- Earn RISS, OSCP, and CISSP certifications
+- Develop advanced offensive security and penetration testing skills
+- Become a world-class penetration tester and contribute to improving cybersecurity worldwide
