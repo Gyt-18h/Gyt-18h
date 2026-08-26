@@ -19,14 +19,16 @@
 Java, C++, Python, HTML, CSS, JavaScript, PHP, SQL
 
 ## Technologies (Currently learning)
-Android Studio, Firebase, Linux, Git/GitHub, VS Code
+Android Studio, Firebase/SupaBase, Linux, Git/GitHub, VS Code
 
 ---
 
 ## Projects
-- WeatherWise (Android)
-- VisualTrip (Android) [In Progress]
-- BodyManager (Android) [In Progress]
+- WeatherWise (Android)（School）
+- VisualTrip (Android)（School）
+- BodyManager (Android)（Individual）
+- Omotenashi（IOS/Android）（Hackathon）
+- SecretFrontier（Android）（Hackathon）
 - ProfilePortfolio (Web) [In Progress]
 
 ---
