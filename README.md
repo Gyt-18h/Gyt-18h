@@ -19,7 +19,7 @@
 Java, C++, Python, HTML, CSS, JavaScript, PHP, SQL
 
 ## Technologies (Currently learning)
-Android Studio, Firebase/SupaBase, Linux, Git/GitHub, VS Code
+Android Studio, Firebase/SupaBase, Linux, Git/GitHub, Docker, VS Code
 
 ---
 
@@ -29,6 +29,7 @@ Android Studio, Firebase/SupaBase, Linux, Git/GitHub, VS Code
 - BodyManager (Android)（Individual）
 - Omotenashi（IOS/Android）（Hackathon）
 - SecretFrontier（Android）（Hackathon）
+- 伊能ネットワーク (IOS/Android) (Hackathon) 
 - ProfilePortfolio (Web) [In Progress]
 
 ---
